@@ -33,7 +33,7 @@ header {
     box-shadow: 5px 5px darkslategray;
     background-color: #618B4A;
 }
-/* .postContainer::after {
+.postContainer::after {
     content: '';
     margin: -.7rem;
     position: relative;
@@ -42,7 +42,7 @@ header {
     height: .8rem;
     background-color: darkgreen;
     border-radius: .3rem;
-} */
+}
 .post {
     padding: 0 .2rem;
     border: .1rem solid #4F3824;
